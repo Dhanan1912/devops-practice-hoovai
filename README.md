@@ -1,2 +1,2 @@
-# devops-practice-hoovai
-devops practice repositor-hoovai
+# DevOps Course Practice 
+this repository contains the studied files icreated from udemy aws devops course 
